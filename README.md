@@ -5,7 +5,14 @@
     href="https://eggplant-egret-e0e.notion.site/SDE-1ff264bab123805eaf04de4a9be30644"
     target="_blank"
     ><img
-      src="https://img.shields.io/badge/View_My_SDE_Notes-gray?style=for-the-badge&amp;logo=notion&amp;logoColor=white"
+      src="https://img.shields.io/badge/My_SDE_Notes-darkblue?style=for-the-badge&amp;logo=notion&amp;logoColor=white"
+      alt="SDE Notes Link"
+  /></a>
+   <a
+    href="https://codepen.io/mynk-tmr/pens/popular"
+    target="_blank"
+    ><img
+      src="https://img.shields.io/badge/CodePen_Profile-white?style=for-the-badge&amp;logo=codepen&amp;logoColor=black"
       alt="SDE Notes Link"
   /></a>
 </p>
