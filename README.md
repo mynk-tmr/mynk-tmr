@@ -31,7 +31,7 @@
 <p>
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=typescript,nodejs,bun,vite,react,nextjs,css,tailwind,mongodb,express,nestjs,postgresql,redis,firebase,docker"
+      src="https://go-skill-icons.vercel.app/api/icons?i=typescript,nodejs,bun,vite,react,nextjs,figma,tailwind,express,hono,postgresql,mongodb,firebase,docker,cloudflare,vercel"
     />
   </a>
 </p>
