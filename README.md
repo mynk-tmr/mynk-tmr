@@ -16,14 +16,10 @@
       alt="SDE Notes Link"
   /></a>
 </p>
-<p>
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mynk-tmr&show_icons=true&locale=en&hide_title=true&hide_border=true&hide=prs,issues&card_width=400&theme=dark"
-    alt="mynk-tmr's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mynk-tmr&show_icons=true&locale=en&layout=compact&hide_title=true&hide_border=true&card_width=400&theme=dark"
-    alt="mynk-tmr's Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mynk-tmr&theme=github_dark"
+    alt="mynk-tmr's stats on github"
   />
 </p>
 
@@ -39,6 +35,6 @@
 <h3>🏆 My Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=mynk-tmr&theme=onestar&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=mynk-tmr&theme=onestar&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
