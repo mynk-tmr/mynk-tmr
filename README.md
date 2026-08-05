@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:ff79c6,100:bd93f9&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Mayank%20Tomar&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2472c8,100:23d18b&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Mayank%20Tomar&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Software+Engineer+from+India;TypeScript+%7C+Rust+%7C+React+%7C+Node;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+from+India;TypeScript+%7C+Rust+%7C+React+%7C+Node;Always+shipping+something+new" alt="Typing SVG" />
 
 <p>
   <a href="https://codepen.io/mynk-tmr/pens/popular" target="_blank">
@@ -16,19 +16,19 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mynk-tmr&style=for-the-badge&color=ff79c6&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=mynk-tmr&style=for-the-badge&color=2472c8&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
 <br />
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=mynk-tmr&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="mynk-tmr's GitHub stats" />
-  <img width="49%" src="https://github-readme-stats-tau-ten-45.vercel.app/api/top-langs/?username=mynk-tmr&layout=compact&theme=dracula&hide_border=true" alt="mynk-tmr's top languages" />
+  <img width="49%" src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=mynk-tmr&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="mynk-tmr's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats-tau-ten-45.vercel.app/api/top-langs/?username=mynk-tmr&layout=compact&theme=github_dark&hide_border=true" alt="mynk-tmr's top languages" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mynk-tmr&theme=dracula&hide_border=true" alt="mynk-tmr's activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mynk-tmr&theme=github-dark&hide_border=true" alt="mynk-tmr's activity graph" />
 </div>
 
 ### 🧰 Tools I usually work with
@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-trophies.vercel.app/?username=mynk-tmr&theme=dracula&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=mynk-tmr&theme=onestar&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -57,4 +57,4 @@
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:ff79c6,100:bd93f9&height=100&section=footer&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2472c8,100:23d18b&height=100&section=footer&animation=fadeIn" width="100%" alt="footer" />
