@@ -5,9 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer+from+India;TypeScript+%7C+Rust+%7C+React+%7C+Node;Always+shipping+something+new" alt="Typing SVG" />
 
 <p>
-  <a href="https://eggplant-egret-e0e.notion.site/SDE-1ff264bab123805eaf04de4a9be30644" target="_blank">
-    <img src="https://img.shields.io/badge/My_SDE_Notes-1a1b26?style=for-the-badge&logo=notion&logoColor=white" alt="SDE Notes" />
-  </a>
   <a href="https://codepen.io/mynk-tmr/pens/popular" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen" />
   </a>
@@ -27,15 +24,11 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=mynk-tmr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="mynk-tmr's GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mynk-tmr&theme=tokyonight&hide_border=true" alt="mynk-tmr's streak stats" />
+  <img width="49%" src="https://github-readme-stats-tau-ten-45.vercel.app/api/top-langs/?username=mynk-tmr&layout=compact&theme=tokyonight&hide_border=true" alt="mynk-tmr's top languages" />
 </div>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mynk-tmr&theme=tokyo-night&hide_border=true" alt="mynk-tmr's activity graph" />
-</div>
-
-<div align="center">
-  <img width="55%" src="https://github-readme-stats-tau-ten-45.vercel.app/api/top-langs/?username=mynk-tmr&layout=compact&theme=tokyonight&hide_border=true" alt="mynk-tmr's top languages" />
 </div>
 
 ### 🧰 Tools I usually work with
