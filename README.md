@@ -24,7 +24,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-tau-ten-45.vercel.app/api?username=mynk-tmr&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="mynk-tmr's GitHub stats" />
-  <img width="49%" src="https://github-readme-stats-tau-ten-45.vercel.app/api/top-langs/?username=mynk-tmr&layout=compact&theme=github_dark&hide_border=true" alt="mynk-tmr's top languages" />
+  <img width="49%" src="https://github-readme-stats-tau-ten-45.vercel.app/api/top-langs/?username=mynk-tmr&layout=compact&theme=github_dark&hide_border=true&hide=Rust,Dockerfile" alt="mynk-tmr's top languages" />
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,python,rust,bun,vite,react,nextjs,tanstack,svelte,expo,tauri,astro,figma,storybook,tailwind,express,hono,postgresql,mongodb,firebase,docker,cloudflare,vercel,claude" alt="skill icons" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,python,bun,vite,react,nextjs,tanstack,svelte,expo,tauri,astro,figma,storybook,tailwind,express,hono,postgresql,mongodb,firebase,cloudflare,claude" alt="skill icons" />
   </a>
 </p>
 
