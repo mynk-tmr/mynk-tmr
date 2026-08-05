@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2472c8,100:23d18b&height=200&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Mayank%20Tomar&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+from+India;TypeScript+%7C+Rust+%7C+React+%7C+Node;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+from+India;TypeScript+%7C+Python+%7C+React+%7C+Node;Always+shipping+something+new" alt="Typing SVG" />
 
 <p>
   <a href="https://codepen.io/mynk-tmr/pens/popular" target="_blank">
